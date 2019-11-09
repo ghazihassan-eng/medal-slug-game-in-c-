@@ -1,0 +1,5 @@
+C:\Users\Hadi\Documents\Visual Studio 2010\Projects\medal slug practice\medal slug practice\bin\Debug\medal slug practice.exe
+C:\Users\Hadi\Documents\Visual Studio 2010\Projects\medal slug practice\medal slug practice\bin\Debug\medal slug practice.pdb
+C:\Users\Hadi\Documents\Visual Studio 2010\Projects\medal slug practice\medal slug practice\obj\x86\Debug\medal slug practice.exe
+C:\Users\Hadi\Documents\Visual Studio 2010\Projects\medal slug practice\medal slug practice\obj\x86\Debug\medal slug practice.pdb
+C:\Users\Hadi\Documents\Visual Studio 2010\Projects\medal slug practice\medal slug practice\obj\x86\Debug\medal slug practice.csprojResolveAssemblyReference.cache
